@@ -1,2 +1,4 @@
-# Yotam-Harash-Goanimate
-this is a project interacted with goanimate's legacy video maker.
+download the file
+extract the files
+allow the site
+boom! you are in!
